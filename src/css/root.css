@@ -1,0 +1,9 @@
+:root {
+  font-size: 62.5%; /* 1rem = 10px */
+  --bg-color: #ffedd5;
+  --primary-color: #2d2c2a;
+  --section-bg-color: #f0c99b;
+  --h2-bg-color: #fed7aa;
+  --odin-color: #995000;
+  --section-bg-homepage-color: #e2bc8e;
+}
