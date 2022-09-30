@@ -22,4 +22,4 @@ como projeto para o HTML Foundations.
 
 ## 📫 Contato
 
-flavioporfirio86@gmai.com
+flavioporfirio86@gmail.com
